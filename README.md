@@ -43,4 +43,4 @@ This repository contains my solution and workflow for the legendary **Titanic Ma
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/titanic-kaggle-project.git](https://github.com/your-username/titanic-kaggle-project.git)
+   git clone [https://github.com/S664470/kaggle_titainc_competation.git]
